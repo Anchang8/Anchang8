@@ -1,6 +1,6 @@
 ### Chang Hyeon An's Home 👋
 
-I am currently a 4-th year undergraduated student in [ICVSLab]("http://pogary.yu.ac.kr/notice.html") at Yeungnam University. And my major is Electronic Engineering. 
+I am currently a 4-th year undergraduated student in <a href="http://pogary.yu.ac.kr/notice.html/">ICVSLab</a> at Yeungnam University. And my major is Electronic Engineering. 
 
 My research interests include computer vision and deep learning, particulary in generative models(ex. Generative Adversarial Network).
 
